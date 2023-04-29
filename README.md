@@ -1,8 +1,7 @@
-# ReVanced Integrations  
+YT 17.49.37 (Revanced Manager v0.0.53)
+Patch Org: Stale-1
+Patch Source: Revanced-Patches
 
-# How to use debugging:
-- Usage on Windows: ```adb logcat | findstr "revanced" > log.txt```
-- Usage on Linux: ```adb logcat | grep --line-buffered "revanced" > log.txt```
-  
-This will write the log to a file called log.txt which you can view then.
- 
+Integration Org: Stale-1
+Integration Source: Revanced-Integrations
+
