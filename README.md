@@ -1,4 +1,4 @@
-<b>Youtube Supported versions:</b><br>
+<b>Patch V0.105.4 Youtube Supported versions:</b><br>
 • 18.16.39<br>
 • 18.16.37<br>
 • 18.15.40<br>
